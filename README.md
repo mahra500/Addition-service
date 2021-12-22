@@ -17,3 +17,4 @@ for example : http://192.168.1.59:8000/addition?number_1=345&number_2=12 will re
 - Clone the repository 
 - Build image using "docker build -t addition-service:1.0.0 ."
 - Run image using "docker run -p 5000:5000 addition-service:1.0.0"
+- Use postman or your broswer tab to get the sum of two numbers
