@@ -1,4 +1,3 @@
-#FROM ubuntu:16.04
 FROM python
 
 # RUN apt-get update -y && \
@@ -13,6 +12,8 @@ WORKDIR /app
 #RUN pip install -r requirements.txt
 
 COPY . /app
+
+EXPOSE 5000
 
 #ENTRYPOINT [ "python" ]
 
