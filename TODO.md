@@ -6,4 +6,4 @@
 
 (3) Include Test cases.
 
-(4) I wanted to have the api presented in swagger which would've been really nice. But will be needing some more time for that, let me know if you want to see that. I can work on it over the weekend and maybe some other usecases which you might want to see.
+(4) API on swagger
